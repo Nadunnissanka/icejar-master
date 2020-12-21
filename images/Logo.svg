@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="98.878" viewBox="0 0 186 98.878">
+  <g id="Logo" transform="translate(-178 -95.122)">
+    <text id="Icejar" transform="translate(178 166)" fill="#f8f8f8" font-size="67" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="0">Icejar</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M727.522,629.972c0,9.355-5.214,9.528-11.646,9.528s-16.991-1.851-11.646-9.528c5.638-8.1,15.31-23.532,11.645-24.35C715.876,605.622,727.522,620.617,727.522,629.972Z" transform="translate(-441.499 -510.5)" fill="#25f2f9"/>
+    <path id="Path_2" data-name="Path 2" d="M719.485,622.066c0,6.318-3.521,6.434-7.864,6.434s-11.474-1.25-7.864-6.434c3.807-5.469,10.339-15.892,7.864-16.444C711.62,605.622,719.485,615.748,719.485,622.066Z" transform="translate(-437.499 -499.5)" fill="#08a6e2"/>
+    <text id="Design" transform="translate(282 186)" fill="#f8f8f8" font-size="24" font-family="NunitoSans-Light, Nunito Sans" font-weight="300"><tspan x="0" y="0">Design</tspan></text>
+    <text id="TM" transform="translate(356 188)" fill="#f8f8f8" font-size="5" font-family="NunitoSans-Light, Nunito Sans" font-weight="300"><tspan x="0" y="0">TM</tspan></text>
+  </g>
+</svg>
